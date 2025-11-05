@@ -1,0 +1,9 @@
+{
+	"name": "adf-cars-project-krishna",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4620807a-ff39-4271-9f9b-07bb096cfd46",
+		"tenantId": "81bf1d1a-e529-4b14-ae90-55a888598183"
+	}
+}
